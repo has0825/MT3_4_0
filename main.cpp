@@ -2,7 +2,7 @@
 #include <cmath>
 #include <imgui.h>
 
-const char kWindowTitle[] = "X方向ばねの小さな伸縮";
+const char kWindowTitle[] = "LE2C_14_シミズグチ_ハル";
 
 struct Vector3 {
 	float x, y, z;
